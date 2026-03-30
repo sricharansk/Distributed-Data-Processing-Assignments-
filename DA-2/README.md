@@ -1,6 +1,7 @@
 # Assignment 2: Spark DataFrames and Transformations
 
 # a) Theory
+
 Differentiate between transformations and actions in Spark. Provide at least 3 examples for each and explain their significance in execution planning.
 
 # b) Practical / Coding
