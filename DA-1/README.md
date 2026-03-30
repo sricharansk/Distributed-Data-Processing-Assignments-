@@ -4,7 +4,11 @@ Explain the concept of distributed data processing. How does Apache Spark improv
 
 # b) Practical
 Write a PySpark program to:
+
      . Create a DataFrame with at least 5 records (columns: ID, Name, Age, Salary)
+
      . Display the schema
+     
      . Show all records
-.    . Filter employees with salary greater than 30,000
+     
+    . Filter employees with salary greater than 30,000
